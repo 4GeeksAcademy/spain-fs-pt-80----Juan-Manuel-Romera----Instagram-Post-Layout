@@ -1,0 +1,36 @@
+body {
+    background-color:rgba(43, 39, 39, 0.881);
+}
+.post {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    width: 22rem;
+    padding: 0.6rem;
+}
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    margin: 0;
+}
+.header-left{
+    display: flex;
+    width: 5rem;
+}
+.header-5{
+    margin-top: 2rem;
+    margin-right: 1rem;
+}
+.header-right{
+    margin-top: 2rem;
+}
+.post-img{
+    margin: 0;
+}
+.post-icons{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
